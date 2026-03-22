@@ -146,12 +146,22 @@ No internet, no cellular coverage needed. The devices communicate directly via L
 The 3D printable case for the Heltec T114 is based on the **H2T Case** by [muzi.works](https://www.printables.com/@muziworks).
 
 - Original model: [H2T - Case for Heltec T114 with GPS running Meshtastic](https://www.printables.com/model/982046-h2t-case-for-heltec-t114-with-gps-running-meshtast)
-- License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Original license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This design is shared under the same license. Commercial use is not permitted.
+### This Repository
+All content in this repository — including documentation, configuration examples, and modified STL files — is shared under the same license:  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-### Documentation & Configuration
-All documentation, setup guides, and configuration examples in this repository are released under the **MIT License**.
+This means:
+- ✅ You may share and adapt this work
+- ✅ You must give appropriate credit (to muzi.works for the original case, and to this repository for modifications and documentation)
+- ❌ Commercial use is **not permitted**
+- ✅ Derivative works must use the same license
+
+For the full license text, see the [LICENSE](LICENSE) file.
+
+### Meshtastic
+[Meshtastic](https://meshtastic.org) is an open-source project. Meshtastic® is a registered trademark of Meshtastic LLC.
 
 ### Meshtastic
 [Meshtastic](https://meshtastic.org) is an open-source project. Meshtastic® is a registered trademark of Meshtastic LLC.
