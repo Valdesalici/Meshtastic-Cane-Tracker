@@ -2,6 +2,10 @@
 
 This folder contains the 3D printable case for the Heltec T114 V2, modified for attachment to a dog's H-style harness.
 
+## Files
+
+- `case_heltec_t114_canetto.stl` — Main case file with 4 attachment loops for H-style dog harness mounting
+
 ## Original Design
 
 - **Author**: muzi.works
