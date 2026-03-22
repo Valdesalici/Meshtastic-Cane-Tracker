@@ -163,5 +163,3 @@ For the full license text, see the [LICENSE](LICENSE) file.
 ### Meshtastic
 [Meshtastic](https://meshtastic.org) is an open-source project. Meshtastic® is a registered trademark of Meshtastic LLC.
 
-### Meshtastic
-[Meshtastic](https://meshtastic.org) is an open-source project. Meshtastic® is a registered trademark of Meshtastic LLC.
