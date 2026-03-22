@@ -147,6 +147,7 @@ The 3D printable case for the Heltec T114 is based on the **H2T Case** by [muzi.
 
 - Original model: [H2T - Case for Heltec T114 with GPS running Meshtastic](https://www.printables.com/model/982046-h2t-case-for-heltec-t114-with-gps-running-meshtast)
 - Original license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Modifications for dog harness attachment**: Stefano Valdesalici (added 4 attachment loops for H-style harness mounting)
 
 ### This Repository
 All content in this repository — including documentation, configuration examples, and modified STL files — is shared under the same license:  
@@ -154,7 +155,7 @@ All content in this repository — including documentation, configuration exampl
 
 This means:
 - ✅ You may share and adapt this work
-- ✅ You must give appropriate credit (to muzi.works for the original case, and to this repository for modifications and documentation)
+- ✅ You must give appropriate credit (to muzi.works for the original case, and to Stefano Valdesalici for modifications and documentation)
 - ❌ Commercial use is **not permitted**
 - ✅ Derivative works must use the same license
 
@@ -162,4 +163,3 @@ For the full license text, see the [LICENSE](LICENSE) file.
 
 ### Meshtastic
 [Meshtastic](https://meshtastic.org) is an open-source project. Meshtastic® is a registered trademark of Meshtastic LLC.
-
