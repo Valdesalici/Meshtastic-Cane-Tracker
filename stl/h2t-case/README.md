@@ -75,4 +75,4 @@ This design is a modified version of the **H2T Case** by [muzi.works](https://ww
 - Original model: [H2T - Case for Heltec T114 with GPS running Meshtastic](https://www.printables.com/model/982046-h2t-case-for-heltec-t114-with-gps-running-meshtast)
 - Modifications by: Stefano Valdesalici
 
-This modified version is shared under the same license as the original: **CC BY-NC-SA 4.0**.
+This modified version is shared under the same license as the original: **CC BY-NC-SA 4.0**. 
