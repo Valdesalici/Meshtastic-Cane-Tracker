@@ -9,13 +9,13 @@ Communicates via LoRa radio — no cellular network or internet required.
 
 | Component | Purpose |
 |-----------|---------|
-| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita 
-| **Heltec V3** | Base station at home | https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita 
-| GPS module (L76K, included with T114) | Provides accurate location |
-| LiPo battery (2000mAh recommended) | Power for the tracker |
-| 3D printed case | Enclosure for electronics |
-| Meshtastic app | For monitoring on your phone |
-| Mounting Strips (2x20 cm)| For harness attachment | https://it.aliexpress.com/item/1005009882234003.html?spm=a2g0o.order_list.order_list_main.29.65621802RGJgXO&gatewayAdapt=glo2ita 
+| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita |
+| **Heltec V3** | Base station at home | https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita |
+| GPS module (L76K, included with T114) | Provides accurate location ||
+| LiPo battery (2000mAh recommended) | Power for the tracker ||
+| 3D printed case | Enclosure for electronics ||
+| Meshtastic app | For monitoring on your phone ||
+| Mounting Strips (2x20 cm)| For harness attachment | https://it.aliexpress.com/item/1005009882234003.html?spm=a2g0o.order_list.order_list_main.29.65621802RGJgXO&gatewayAdapt=glo2ita |
 
 ---
 
