@@ -7,8 +7,8 @@ Communicates via LoRa radio — no cellular network or internet required.
 
 ## 📦 What You Need
 
-| Component | Purpose |
-|-----------|---------|
+| Component | Purpose | Link |
+|-----------|---------|------|
 | **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita |
 | **Heltec V3** | Base station at home | https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita |
 | GPS module (L76K, included with T114) | Provides accurate location ||
