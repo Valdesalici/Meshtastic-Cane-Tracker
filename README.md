@@ -8,14 +8,16 @@ Communicates via LoRa radio — no cellular network or internet required.
 ## 📦 What You Need
 
 | Component | Purpose | Link |
-|-----------|---------|------|
-| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita |
-| **Heltec V3** | Base station at home | https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita |
-| GPS module (L76K, included with T114) | Provides accurate location ||
-| LiPo battery (2000mAh recommended) | Power for the tracker ||
-| 3D printed case | Enclosure for electronics ||
-| Meshtastic app | For monitoring on your phone ||
-| Mounting Strips (2x20 cm)| For harness attachment | https://it.aliexpress.com/item/1005009882234003.html?spm=a2g0o.order_list.order_list_main.29.65621802RGJgXO&gatewayAdapt=glo2ita |
+| :--- | :--- | :--- |
+| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | [Buy on AliExpress](https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita) |
+| **Heltec V3** | Base station at home | [Buy on AliExpress](https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita) |
+| **GPS module** (L76K) | Provides accurate location | *(Included with T114)* |
+| **LiPo battery** (2000mAh) | Power for the tracker | *(Included with kit)* |
+| **3D printed case** | Enclosure for electronics | *(STL files in `/stl` folder)* |
+| **Meshtastic app** | Monitoring on your phone | [Download on Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh&hl=en-US) |
+| **Mounting strips** (2x20cm) | For harness attachment | [Buy on AliExpress](https://it.aliexpress.com/item/1005009882234003.html?spm=a2g0o.order_list.order_list_main.29.65621802RGJgXO&gatewayAdapt=glo2ita) |
+
+> ⚠️ **Note:** The AliExpress link for the mounting strips may require you to complete a captcha verification to view the product.
 
 ---
 
