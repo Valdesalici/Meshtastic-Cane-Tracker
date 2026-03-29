@@ -9,12 +9,13 @@ Communicates via LoRa radio — no cellular network or internet required.
 
 | Component | Purpose |
 |-----------|---------|
-| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog |
-| **Heltec V3** | Base station at home |
+| **Heltec T114 V2** (with 1.14" display) | Tracker worn by the dog | https://it.aliexpress.com/item/1005009980517678.html?spm=a2g0o.order_list.order_list_main.68.65621802RGJgXO&gatewayAdapt=glo2ita 
+| **Heltec V3** | Base station at home | https://it.aliexpress.com/item/1005011690838699.html?spm=a2g0o.order_list.order_list_main.74.65621802RGJgXO&gatewayAdapt=glo2ita 
 | GPS module (L76K, included with T114) | Provides accurate location |
 | LiPo battery (2000mAh recommended) | Power for the tracker |
 | 3D printed case | Enclosure for electronics |
 | Meshtastic app | For monitoring on your phone |
+| Mounting Strips (2x20 cm)| For harness attachment | https://it.aliexpress.com/item/1005009882234003.html?spm=a2g0o.order_list.order_list_main.29.65621802RGJgXO&gatewayAdapt=glo2ita 
 
 ---
 
@@ -139,8 +140,18 @@ No internet, no cellular coverage needed. The devices communicate directly via L
 | Flashing fails | Make sure you're using Chrome/Edge, a data-capable USB cable, and that the device is in bootloader mode (hold BOOT while plugging in). |
 
 ---
+## 📸 Photos
+
+### Pepe — The Four-Legged Tester 🐕
+
+Here's Pepe wearing the Meshtastic tracker on his H-style harness. The case is secured to the dorsal strap using two zip ties passing through the 4 attachment loops.
+
+---
 
 ## 🙏 Credits & License
+
+### Special Thanks
+- **Pepe** 🐕 — the four-legged tester who inspired this project and wore the prototype with patience and tail wags.
 
 ### 3D Case Design
 The 3D printable case for the Heltec T114 is based on the **H2T Case** by [muzi.works](https://www.printables.com/@muziworks).
